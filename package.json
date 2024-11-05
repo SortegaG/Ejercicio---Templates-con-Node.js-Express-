@@ -1,0 +1,25 @@
+{
+  "name": "ejercicio---templates-con-node.js-express-",
+  "version": "1.0.0",
+  "description": "Ejercicio Templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SortegaG/Ejercicio---Templates-con-Node.js-Express-.git"
+  },
+  "author": "Sergio Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SortegaG/Ejercicio---Templates-con-Node.js-Express-/issues"
+  },
+  "homepage": "https://github.com/SortegaG/Ejercicio---Templates-con-Node.js-Express-#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "pug": "^3.0.3"
+  }
+}
